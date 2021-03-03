@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 - I am a Postdoctoral researcher in the [Department of Applied Mathematics](https://www.brown.edu/research/projects/crunch/home) at [Brown University](https://www.brown.edu/).
-- I received my Ph.D. from [Institute of Structural Mechanics](https://www.uni-weimar.de/en/civil-engineering/institute/ism/) at [Bauhaus University](https://www.uni-weimar.de/en/university/start/), working with [Prof. Dr.-Ing Timon Rabczuk](https://www.uni-weimar.de/en/civil-engineering/institute/ism/team/professors/prof-dr-ing-timon-rabczuk/), in 2020. 
+- I received my Ph.D. from [Institute of Structural Mechanics](https://www.uni-weimar.de/en/civil-engineering/institute/ism/) at [Bauhaus University](https://www.uni-weimar.de/en/university/start/) in 2020, working with [Prof. Dr.-Ing Timon Rabczuk](https://www.uni-weimar.de/en/civil-engineering/institute/ism/team/professors/prof-dr-ing-timon-rabczuk/). 
 - I completed my M.E in Structural Engineering from the [Department of Civil Engineering](https://www.iiests.ac.in/IIEST/AcaUnitDetails/CE) at [Indian Institute of Engineering Sciences and Technology](https://www.iiests.ac.in/), Shibpur, India in 2013 working with [Prof. Dr. Subrata Chakraborty](https://www.iiests.ac.in/IIEST/Faculty/civil-schak) 
 - I received my B.E. from the [Department of Civil Engineering](https://www.bitmesra.ac.in/Show_Department_Section?cid=1&deptid=50) at [Birla Institute of Technology](https://www.bitmesra.ac.in/), Ranchi, India in 2011.
+- [Curriculam Vitae](https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/files/Resume-Somdatta.pdf)
 
 
 A data-driven personal website
