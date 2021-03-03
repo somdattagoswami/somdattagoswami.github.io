@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Somdatta Goswami"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+- I am a Postdoctoral researcher in the [Department of Applied Mathematics](https://www.brown.edu/research/projects/crunch/home) at [Brown University](https://www.brown.edu/).
+- I received my Ph.D. from [Institute of Structural Mechanics](https://www.uni-weimar.de/en/civil-engineering/institute/ism/) at [Bauhaus University](https://www.uni-weimar.de/en/university/start/), Germany, working with [Prof. Dr.-Ing Timon Rabczuk](https://www.uni-weimar.de/en/civil-engineering/institute/ism/team/professors/prof-dr-ing-timon-rabczuk/), in 2020. 
+- I completed my M.E in Structural Engineering from the [Department of Civil Engineering](https://www.iiests.ac.in/IIEST/AcaUnitDetails/CE) at [Indian Institute of Engineering Sciences and Technology](https://www.iiests.ac.in/), Shibpur, India in 2013 working with [Prof. Dr. Subrata Chakraborty](https://www.iiests.ac.in/IIEST/Faculty/civil-schak) 
+- I received my B.E. from the [Department of Civil Engineering](https://www.bitmesra.ac.in/Show_Department_Section?cid=1&deptid=50) at [Birla Institute of Technology](https://www.bitmesra.ac.in/), Ranchi, India in 2011.
+
 
 A data-driven personal website
 ======
