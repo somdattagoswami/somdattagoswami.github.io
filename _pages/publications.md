@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 permalink: /publications/
 author_profile: true
 ---
