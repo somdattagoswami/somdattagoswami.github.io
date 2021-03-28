@@ -6,17 +6,26 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Codes Published"
+    url: /codes/
+  
+  - title: "Academic Roles"
+    url: /roles/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Awards"
+    url: /award/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Referees"
+    url: /referees/
+    
+  #- title: "CV"
+  #  url: /cv/
+    
+  #- title: "Guide"
+  #  url: /markdown/
