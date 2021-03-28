@@ -16,7 +16,6 @@ redirect_from:
 - [Curriculum Vitae](https://somdattagoswami.github.io/files/Resume.pdf)
 
 ## Research Areas
-==============
 - Phase-field based modeling (Fracture Mechanics, Aortic Dissection)
 - Machine learning (Deep Learning, Meta Learning)
 - Isogeometric Analysis- 
