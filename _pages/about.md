@@ -16,5 +16,5 @@ redirect_from:
 - [Curriculum Vitae](https://github.com/somdattagoswami/somdattagoswami.github.io/blob/1ec12e3f9e5157914c0b2f624293fe12989cccef/files/Resume.pdf)
 
 
-Research Areas
+## Research Areas
 ==============
