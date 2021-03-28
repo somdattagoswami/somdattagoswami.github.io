@@ -40,7 +40,7 @@ Companion paper: [Adaptive fourth-order phase field analysis for brittle fractur
 ![](../images/GitHub.png) [source](https://github.com/somdattagoswami/IGAPack-DualMeshPhaseField)
 
 - PHT splines are C0 continuous at patch boundaries. Hence, thesis are not suitable for fourth-order phase field modeling with multiple patch geometries. 
-- The second-order phase field model requires C^0 smooth basis functions over the whole domain. Consequently, a dual-mesh approach for the second-order phase field model is devised, that allows to relax the stringent mesh refinement criteria. 
+- The second-order phase field model requires C0 smooth basis functions over the whole domain. Consequently, a dual-mesh approach for the second-order phase field model is devised, that allows to relax the stringent mesh refinement criteria. 
 - The dual-mesh uses a coarser discretization for the displacement field and a finer discretization for the phase field. The smaller element size in the phase field mesh ensures a numerically stable crack growth, while larger elements in the elastic mesh reduce the computational cost significantly. 
 - Also, independent refinement strategies for both the fields are employed. A recovery-based *a posteriori* error estimator drives the adaptive refinement on the elastic mesh, while a critical threshold value of the phase field parameter determines the need for refinement on the phase field mesh.
 
