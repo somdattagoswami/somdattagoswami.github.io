@@ -17,3 +17,7 @@ redirect_from:
 
 ## Research Areas
 ==============
+- Phase-field based modeling (Fracture Mechanics, Aortic Dissection)
+- Machine learning (Deep Learning, Meta Learning)
+- Isogeometric Analysis- 
+- Reliability analysis and Design under uncertainty
