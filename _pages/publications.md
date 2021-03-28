@@ -1,10 +1,9 @@
 ---
 layout: archive
-#title: "Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 ## Journal Papers
 1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [Adaptive fourth-order phase field analysis using deep energy minimization](https://doi.org/10.1016/j.tafmec.2020.102527), *Theoretical and Applied Fracture Mechanics* 107(2020):102527.
 1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [Adaptive fourth-order phase field analysis for brittle fracture](https://doi.org/10.1016/j.cma.2019.112808),  *Computer Methods in Applied Mechanics and Engineering* 361(2020):112808.
@@ -18,7 +17,7 @@ author_profile: true
 
 ## Conference Papers
 
-1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. An efficient framework for fracture analysis of brittle materials. *XI Structural Engineering Convention*(2018):81.
+1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. An efficient framework for fracture analysis of brittle materials. *XI Structural Engineering Convention* (2018):81.
 1. **Somdatta Goswami**, and Souvik Chakraborty. Topology optimization under uncertainty. *XI Structural Engineering Convention* (2018):119.
 1. **Somdatta Goswami**, and Subrata Chakraborty. Adaptive Response Surface Method Based Efficient Monte Carlo Simulation. *Vulnerability, Uncertainty, and Risk: Quantification, Mitigation, and Management* (2014):2043-2052.
 1. **Somdatta Goswami**, , Subrata Chakraborty, and Shyamal Ghosh. Adaptive response surface method in structural response approximation under uncertainty. *International Conference on Structural Engineering and Mechanics* (2013):194-202.
