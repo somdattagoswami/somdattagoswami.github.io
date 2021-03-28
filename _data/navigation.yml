@@ -19,7 +19,7 @@ main:
     url: /roles/
     
   - title: "Awards"
-    url: /award/
+    url: /awards/
     
   - title: "Referees"
     url: /referees/
