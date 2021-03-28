@@ -33,14 +33,17 @@ DeepXDE is extensible to solve other problems in scientific computing.
 - The solution scheme for both the second and the fourth-order phase field model is implemented using PHT-splines within the framework of Isogeometric analysis. Both cubic and quadratic stress degradation functions have been used.
 
 Companion paper: [Adaptive fourth-order phase field analysis for brittle fracture](https://www.sciencedirect.com/science/article/pii/S0045782519307005)
+
 ![](../images/CubeWithHole.gif)
 
 ## Dual mesh approach of fracture modeling using Isogeometric analysis
-#![](../images/GitHub.png) [source](https://github.com/somdattagoswami/IGAPack-DualMeshPhaseField)
+![](../images/GitHub.png) [source](https://github.com/somdattagoswami/IGAPack-DualMeshPhaseField)
 
 - PHT splines are C^0 continuous at patch boundaries. Hence, thesis are not suitable for fourth-order phase field modeling with multiple patch geometries. 
 - The second-order phase field model requires $C^0$ smooth basis functions over the whole domain. Consequently, a dual-mesh approach for the second-order phase field model is devised, that allows to relax the stringent mesh refinement criteria. 
 - The dual-mesh uses a coarser discretization for the displacement field and a finer discretization for the phase field. The smaller element size in the phase field mesh ensures a numerically stable crack growth, while larger elements in the elastic mesh reduce the computational cost significantly. 
 - Also, independent refinement strategies for both the fields are employed. A recovery-based *a posteriori* error estimator drives the adaptive refinement on the elastic mesh, while a critical threshold value of the phase field parameter determines the need for refinement on the phase field mesh.
 
-#![](../images/Media1.gif)
+Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
+
+![](../images/Media1.gif)
