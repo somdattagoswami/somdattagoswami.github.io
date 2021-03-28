@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title:
 permalink: /publications/
 author_profile: true
 ---
+
 ## Journal Papers
 1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [Adaptive fourth-order phase field analysis using deep energy minimization](https://doi.org/10.1016/j.tafmec.2020.102527), *Theoretical and Applied Fracture Mechanics* 107(2020):102527.
 1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [Adaptive fourth-order phase field analysis for brittle fracture](https://doi.org/10.1016/j.cma.2019.112808),  *Computer Methods in Applied Mechanics and Engineering* 361(2020):112808.
