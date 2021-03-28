@@ -32,7 +32,7 @@ OpenRBC is a coarse-grained molecular dynamics code for simulating entire human 
 #![](../images/openrbc.jpg)
 
 ## Adaptive phase field modeling of fracture using Isogeometric analysis
-#![](../images/GitHub.png) [source](https://github.com/somdattagoswami/IGAPack-PhaseField)
+![](../images/GitHub.png) [source](https://github.com/somdattagoswami/IGAPack-PhaseField)
 
 - Phase field modeling of fracture is a popular approach in the category of continuous fracture modeling approach. This approach aims to simultaneously solve for the displacement field and fracture region by energy minimization and no assumption for the evolution of the cracks is needed, thereby generalizing the Griffith's theory for brittle fracture.  
 - While the phase field approach has numerous advantages, the practical application is severely limited due to the computational cost. In order to ensure a numerically stable crack propagation, the size of the elements must be sufficiently small to adequately resolve the damage region.
@@ -40,4 +40,4 @@ OpenRBC is a coarse-grained molecular dynamics code for simulating entire human 
 - The solution scheme for both the second and the fourth-order phase field model is implemented using PHT-splines within the framework of Isogeometric analysis.
 
 Companion paper: [Adaptive fourth-order phase field analysis for brittle fracture](https://www.sciencedirect.com/science/article/pii/S0045782519307005)
-#![](../images/CubeWithHole.gif)
+![](../images/CubeWithHole.gif)
