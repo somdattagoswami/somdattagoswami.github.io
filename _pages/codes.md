@@ -9,7 +9,7 @@ author_profile: true
 
 ![](../images/GitHub.png) [source](https://github.com/somdattagoswami/DEM-PhaseField)
 
-Over the past two years, several studies on Physics Informed Neural Network (PINN) based approaches can be found in the literature. While most of the PINN approaches available in the literature minimize the residual of the governing PDEs, the proposed PINN approach takes a different path by minimizing the variational energy of the system to resolve the crack path. One major advantage of the variational energy formulation resides in the fact that it requires derivatives one order lower than in the conventional residual minimization approach. Hence, this approach is computationally efficient. Adaptive refinement algorithm has been proposed.
+The Physics informed neural networks (PINNs) are trained to solve supervised learning problems while respecting any given law of physics described by general non-linear partial differential equations. While most of the PINN approaches available in the literature minimize the residual of the governing PDEs, the proposed PINN approach takes a different path by minimizing the variational energy of the system to resolve the crack path using the phase field modeling approach. One major advantage of the variational energy formulation resides in the fact that it requires derivatives one order lower than in the conventional residual minimization approach. Hence, this approach is computationally efficient. The concept of **transfer learning** and **adaptive refinement technique** has been developed and integrated with the developed PINNs approach.
 
 Companion paper:  
   1. [Adaptive fourth-order phase field analysis using deep energy minimization](https://doi.org/10.1016/j.tafmec.2020.102527)
