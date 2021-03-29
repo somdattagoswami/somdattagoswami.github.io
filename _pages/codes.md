@@ -16,7 +16,7 @@ Companion paper:
   1. [An energy approach to the solution of partial differential equations in computational mechanics via machine learning:Concepts, implementation and applications](https://doi.org/10.1016/j.cma.2019.112790)
   1. [Transfer learning enhanced physics informed neural network for phase-field modeling of fracture](https://doi.org/10.1016/j.tafmec.2019.102447)
 
-![](../images/Picture1.png width="48")
+<img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Picture1.png" width="100" height="100">
 
 ## Adaptive phase field modeling of fracture using Isogeometric analysis
 ![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/IGAPack-PhaseField)
