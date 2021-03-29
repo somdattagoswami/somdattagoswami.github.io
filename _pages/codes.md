@@ -5,7 +5,7 @@ permalink: /codes/
 author_profile: true
 ---
 
-## Fracture modeling using Physics Informed Neural network
+## Fracture modeling using Physics Informed Neural Network
 
 ![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/DEM-PhaseField)
 
