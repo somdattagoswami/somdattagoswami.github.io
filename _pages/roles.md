@@ -7,7 +7,7 @@ author_profile: true
 
 - Symposium Organizer:
 
-  - International Symposium on Engineering under Uncertainty: Safety Assessment and Management(2012)
+  - International Symposium on Engineering under Uncertainty: Safety Assessment and Management (2012)
 
 - Journal Reviewer:
 
