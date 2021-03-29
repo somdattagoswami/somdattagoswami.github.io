@@ -17,7 +17,7 @@ Companion paper:
   1. [Transfer learning enhanced physics informed neural network for phase-field modeling of fracture](https://doi.org/10.1016/j.tafmec.2019.102447)
 
 <p align="center">
-    <img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Picture1.png?raw=true" width="600" height="300">
+    <img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Picture1.png?raw=true" width="650" height="400">
 </p>
 
 ## Adaptive phase field modeling of fracture using Isogeometric analysis
