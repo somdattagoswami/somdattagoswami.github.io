@@ -9,7 +9,7 @@ author_profile: true
 
 ![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/DEM-PhaseField)
 
-The **P**hysics **I**nformed **N**eural **N**etworks are trained to solve supervised learning problems while respecting any given law of physics described by general non-linear partial differential equations. The developed PINN approach takes a different path by minimizing the variational energy of the system to resolve the crack path within the framework of phase field modeling approach. One major advantage of the variational energy formulation resides in the fact that it requires derivatives of lower order than in the conventional residual minimization approach. Hence, this approach is computationally efficient. The concept of **Transfer Learning** and **Adaptive Refinement Technique** has been dintegrated with the developed PINN approach.
+The **P**hysics **I**nformed **N**eural **N**etworks are trained to solve supervised learning problems while respecting any given law of physics described by general non-linear partial differential equations. The developed PINN approach takes a different path by minimizing the variational energy of the system to resolve the crack path within the framework of phase field modeling approach. One major advantage of the variational energy formulation resides in the fact that it requires derivatives of lower order than in the conventional residual minimization approach. Hence, this approach is computationally efficient. The concept of **Transfer Learning** and **Adaptive Refinement Technique** has been integrated with the developed PINN approach.
 
 Companion paper:  
   
