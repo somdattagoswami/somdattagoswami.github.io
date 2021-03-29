@@ -34,7 +34,7 @@
 .masthead__menu {
 
   ul {
-    position: fixed;
+
     margin: 0;
     padding: 0;
     clear: both;
@@ -48,6 +48,7 @@
   white-space: nowrap;
 
   &--lg {
+    position: fixed;
     padding-right: 2em;
     font-weight: 700;
   }
