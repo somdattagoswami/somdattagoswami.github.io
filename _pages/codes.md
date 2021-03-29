@@ -7,22 +7,16 @@ author_profile: true
 
 ## Fracture modeling using Physics Informed Neural network
 
-![](../images/GitHub.png) [source](https://github.com/lululxvi/deepxde)
+![](../images/GitHub.png) [source](https://github.com/somdattagoswami/DEM-PhaseField)
 
-DeepXDE is a deep learning library for solving differential equations on top of [TensorFlow](https://www.tensorflow.org/).
+Over the past two years, several studies on Physics Informed Neural Network (PINN) based approaches can be found in the literature. While most of the PINN approaches available in the literature minimize the residual of the governing PDEs, the proposed PINN approach takes a different path by minimizing the variational energy of the system to resolve the crack path. One major advantage of the variational energy formulation resides in the fact that it requires derivatives one order lower than in the conventional residual minimization approach. Hence, this approach is computationally efficient. Adaptive refinement algorithm has been proposed.
 
-Use DeepXDE if you need a deep learning library that
+Companion paper:  
+  1. [Adaptive fourth-order phase field analysis using deep energy minimization](https://doi.org/10.1016/j.tafmec.2020.102527)
+  1. [An energy approach to the solution of partial differential equations in computational mechanics via machine learning:Concepts, implementation and applications](https://doi.org/10.1016/j.cma.2019.112790)
+  1. [Transfer learning enhanced physics informed neural network for phase-field modeling of fracture](https://doi.org/10.1016/j.tafmec.2019.102447)
 
-- solves partial differential equations (PDEs),
-- solves integro-differential equations (IDEs),
-- solves fractional partial differential equations (fPDEs),
-- solves inverse problems for differential equations,
-- approximates functions from a dataset with/without constraints,
-- approximates functions from multi-fidelity data.
-
-DeepXDE is extensible to solve other problems in scientific computing.
-
-#![](../images/deepxde.png)
+![](../images/Picture1.png)
 
 ## Adaptive phase field modeling of fracture using Isogeometric analysis
 ![](../images/GitHub.png) [source](https://github.com/somdattagoswami/IGAPack-PhaseField)
