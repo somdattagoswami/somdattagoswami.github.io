@@ -16,7 +16,7 @@ Companion paper:
   1. [An energy approach to the solution of partial differential equations in computational mechanics via machine learning:Concepts, implementation and applications](https://doi.org/10.1016/j.cma.2019.112790)
   1. [Transfer learning enhanced physics informed neural network for phase-field modeling of fracture](https://doi.org/10.1016/j.tafmec.2019.102447)
 
-<img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Picture1.png" width="100" height="100">
+<img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Picture1.png" width="500" height="400">
 
 ## Adaptive phase field modeling of fracture using Isogeometric analysis
 ![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/IGAPack-PhaseField)
@@ -28,7 +28,7 @@ Companion paper:
 
 Companion paper: [Adaptive fourth-order phase field analysis for brittle fracture](https://www.sciencedirect.com/science/article/pii/S0045782519307005)
 
-![](../images/CubeWithHole.gif)
+<img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/CubeWithHole.gif" width="500" height="400">
 
 ## Dual mesh approach of fracture modeling using Isogeometric analysis
 ![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/IGAPack-DualMeshPhaseField)
@@ -40,4 +40,4 @@ Companion paper: [Adaptive fourth-order phase field analysis for brittle fractur
 
 Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
 
-![](../images/Media1.gif)
+<img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Media1.gif" width="500" height="400">
