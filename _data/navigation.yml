@@ -21,8 +21,8 @@ main:
   - title: "Awards"
     url: /awards/
     
-  - title: "Referees"
-    url: /referees/
+  #- title: "Referees"
+  #  url: /referees/
     
   #- title: "CV"
   #  url: /cv/
