@@ -31,7 +31,7 @@ Companion paper:
 Companion paper: [Adaptive fourth-order phase field analysis for brittle fracture](https://www.sciencedirect.com/science/article/pii/S0045782519307005)
 
 <p align="center">
-  <img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/CubeWithHole.gif" width="500" height="400">
+  <img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/CubeWithHole.gif?raw=true" width="500" height="400">
 </p>
 
 ## Dual mesh approach of fracture modeling using Isogeometric analysis
@@ -45,5 +45,5 @@ Companion paper: [Adaptive fourth-order phase field analysis for brittle fractur
 Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
 
 <p align="center">
-  <img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Media1.gif" width="500" height="400">
+  <img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Media1.gif?raw=true" width="500" height="400">
 </p>
