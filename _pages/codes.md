@@ -7,7 +7,7 @@ author_profile: true
 
 ## Fracture modeling using Physics Informed Neural network
 
-![](../images/GitHub.png) [source](https://github.com/somdattagoswami/DEM-PhaseField)
+![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/DEM-PhaseField)
 
 The Physics informed neural networks (PINNs) are trained to solve supervised learning problems while respecting any given law of physics described by general non-linear partial differential equations. While most of the PINN approaches available in the literature minimize the residual of the governing PDEs, the proposed PINN approach takes a different path by minimizing the variational energy of the system to resolve the crack path using the phase field modeling approach. One major advantage of the variational energy formulation resides in the fact that it requires derivatives one order lower than in the conventional residual minimization approach. Hence, this approach is computationally efficient. The concept of **transfer learning** and **adaptive refinement technique** has been developed and integrated with the developed PINNs approach.
 
@@ -19,7 +19,7 @@ Companion paper:
 ![](../images/Picture1.png)
 
 ## Adaptive phase field modeling of fracture using Isogeometric analysis
-![](../images/GitHub.png) [source](https://github.com/somdattagoswami/IGAPack-PhaseField)
+![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/IGAPack-PhaseField)
 
 - Phase field modeling of fracture is a popular approach in the category of continuous fracture modeling approach. This approach aims to simultaneously solve for the displacement field and fracture region by energy minimization and no assumption for the evolution of the cracks is needed, thereby generalizing the Griffith's theory for brittle fracture.  
 - While the phase field approach has numerous advantages, the practical application is severely limited due to the computational cost. In order to ensure a numerically stable crack propagation, the size of the elements must be sufficiently small to adequately resolve the damage region.
@@ -31,7 +31,7 @@ Companion paper: [Adaptive fourth-order phase field analysis for brittle fractur
 ![](../images/CubeWithHole.gif)
 
 ## Dual mesh approach of fracture modeling using Isogeometric analysis
-![](../images/GitHub.png) [source](https://github.com/somdattagoswami/IGAPack-DualMeshPhaseField)
+![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/IGAPack-DualMeshPhaseField)
 
 - PHT splines are C0 continuous at patch boundaries. Hence, thesis are not suitable for fourth-order phase field modeling with multiple patch geometries. 
 - The second-order phase field model requires C0 smooth basis functions over the whole domain. Consequently, a dual-mesh approach for the second-order phase field model is devised, that allows to relax the stringent mesh refinement criteria. 
