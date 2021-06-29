@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently working as a Postdoctoral Research Associate in the [Division of Applied Mathematics](https://www.brown.edu/research/projects/crunch/home) at [Brown University](https://www.brown.edu/) with [Prof. George Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis).
-- I received my Ph.D. from [Institute of Structural Mechanics](https://www.uni-weimar.de/en/civil-engineering/institute/ism/) at [Bauhaus University-Weimar, Germany](https://www.uni-weimar.de/en/university/start/) in 2020, working with [Prof. Timon Rabczuk](https://www.uni-weimar.de/en/civil-engineering/institute/ism/team/professors/prof-dr-ing-timon-rabczuk/). 
-- I have worked with [Tata Consulting Engineers Limited](https://www.tce.co.in/) (2013-2017) in various capacities starting from Postgraduate Engineering trainee to an Assistant Manager. 
-- I completed my M.E in Structural Engineering from the [Department of Civil Engineering](https://www.iiests.ac.in/IIEST/AcaUnitDetails/CE) at [Indian Institute of Engineering Sciences and Technology](https://www.iiests.ac.in/), Shibpur, India in 2013 working with [Prof. Subrata Chakraborty](https://www.iiests.ac.in/IIEST/Faculty/civil-schak).
-- I received my B.E. from the [Department of Civil Engineering](https://www.bitmesra.ac.in/Show_Department_Section?cid=1&deptid=50) at [Birla Institute of Technology](https://www.bitmesra.ac.in/), Ranchi, India in 2011.
-- [Curriculum Vitae](https://somdattagoswami.github.io/files/Resume.pdf)
+I am currently a Postdoctoral Research Associate at [Applied Mathematics](https://www.brown.edu/research/projects/crunch/home),at Brown University, working in the group of [Prof. George Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis). I completed my Ph.D. in 2020 at [Bauhaus University, Germany](https://www.uni-weimar.de/en/university/start/) under the supervision of [Prof. Timon Rabczuk](https://www.uni-weimar.de/en/civil-engineering/institute/ism/team/professors/prof-dr-ing-timon-rabczuk/). My Ph.D. thesis is based on Phase field based modeling of fracture with isogeometric analysis and machine learning methods.
+
+Here is a recent copy of my [CV](https://somdattagoswami.github.io/files/Resume.pdf).
 
 ## Research Areas
-- Phase-field based modeling (Fracture Mechanics, Aortic Dissection)
-- Machine learning (Deep Learning, Meta Learning)
-- Isogeometric Analysis
-- Reliability analysis and Design under uncertainty
+Broad Interest:  Deep Learning, Physics Driven Scientific Computing, Isogeometric Analysis
+
+Recent works/focus on: Phase-field based modeling (Fracture Mechanics, Aortic Dissection). In particular, I have been actively involved in the design of learning machines that leverage the underlying physical laws and/or governing equations to extract patterns from high-dimensional data generated from experiments.
