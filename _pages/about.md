@@ -13,6 +13,6 @@ I am currently a Postdoctoral Research Associate at [Applied Mathematics](https:
 Here is a recent copy of my [CV](https://somdattagoswami.github.io/files/Resume.pdf).
 
 ## Research Areas
-Broad Interest:  Deep Learning, Physics Driven Scientific Computing, Isogeometric Analysis
+**Broad Interest:**  Deep Learning, Physics Driven Scientific Computing, Isogeometric Analysis
 
-Recent works/focus on: Phase-field based modeling (Fracture Mechanics, Aortic Dissection). In particular, I have been actively involved in the design of learning machines that leverage the underlying physical laws and/or governing equations to extract patterns from high-dimensional data generated from experiments.
+**Recent works/focus on:** Phase-field based modeling (Fracture Mechanics, Aortic Dissection). In particular, I have been actively involved in the design of learning machines that leverage the underlying physical laws and/or governing equations to extract patterns from high-dimensional data generated from experiments.
