@@ -17,5 +17,6 @@ author_profile: true
   - [Defence Technology](https://www.sciencedirect.com/journal/defence-technology)
   - [International Journal of Impact Engineering](https://www.journals.elsevier.com/international-journal-of-impact-engineering)
   - [Reliability Engineering and System Safety](https://www.journals.elsevier.com/reliability-engineering-and-system-safety)
+  - [International Journal of Computational Methods](https://www.worldscientific.com/worldscinet/ijcm)
   - [Energies](https://www.mdpi.com/journal/energies)
 
