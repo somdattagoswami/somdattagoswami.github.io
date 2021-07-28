@@ -18,5 +18,6 @@ author_profile: true
   - [International Journal of Impact Engineering](https://www.journals.elsevier.com/international-journal-of-impact-engineering)
   - [Reliability Engineering and System Safety](https://www.journals.elsevier.com/reliability-engineering-and-system-safety)
   - [International Journal of Computational Methods](https://www.worldscientific.com/worldscinet/ijcm)
+  - [Frontiers of Structural and Civil Engineering](https://www.springer.com/journal/11709)
   - [Energies](https://www.mdpi.com/journal/energies)
 
