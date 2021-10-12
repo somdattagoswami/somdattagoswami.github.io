@@ -4,8 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Submitted manuscript
+
+1. Tanmoy Chatterjee, Souvik Chakraborty, **Somdatta Goswami**, Sondipon Adhikari, and Michael I Friswell. [A physics-informed variational DeepONet for predicting the crack
+path in brittle materials](https://arxiv.org/abs/2108.06905), arXiv preprint arXiv:2108.06905.
 
 ## Journal Papers
+
+1. Tanmoy Chatterjee, Souvik Chakraborty, **Somdatta Goswami**, Sondipon Adhikari, and Michael I Friswell. [Robust topological designs for extreme metamaterial micro-structures](https://www.nature.com/articles/s41598-021-94520-x), *Sci Rep* 11, 15221 (2021).
 1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [Adaptive fourth-order phase field analysis using deep energy minimization](https://doi.org/10.1016/j.tafmec.2020.102527), *Theoretical and Applied Fracture Mechanics* 107(2020):102527.
 1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [Adaptive fourth-order phase field analysis for brittle fracture](https://doi.org/10.1016/j.cma.2019.112808),  *Computer Methods in Applied Mechanics and Engineering* 361(2020):112808.
 1. E Samaniego, C Anitescu, **S Goswami**, V M Nguyen-Thanh, H Guo, K Hamdia, X Zhuang, and T Rabczuk. [An energy approach to the solution of partial differential equations in computational mechanics via machine learning:Concepts, implementation and applications](https://doi.org/10.1016/j.cma.2019.112790), *Computer Methods in Applied Mechanics and Engineering* 362(2020):112790.
