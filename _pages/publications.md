@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Submitted manuscript
 
-1. Tanmoy Chatterjee, Souvik Chakraborty, **Somdatta Goswami**, Sondipon Adhikari, and Michael I Friswell. [A physics-informed variational DeepONet for predicting the crack
+1. **Somdatta Goswami**, Minglang Yin, Yue Yu, and George Em Karniadakis. [A physics-informed variational DeepONet for predicting the crack
 path in brittle materials](https://arxiv.org/abs/2108.06905), arXiv preprint arXiv:2108.06905.
 
 ## Journal Papers
