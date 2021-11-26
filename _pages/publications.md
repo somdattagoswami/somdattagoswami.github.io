@@ -8,6 +8,8 @@ author_profile: true
 
 1. **Somdatta Goswami**, Minglang Yin, Yue Yu, and George Em Karniadakis. [A physics-informed variational DeepONet for predicting the crack
 path in brittle materials](https://arxiv.org/abs/2108.06905), arXiv preprint arXiv:2108.06905.
+1. Lu, Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, **Somdatta Goswami**, Zhongqiang Zhang, and George Em Karniadakis. [A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.](https://arxiv.org/abs/2111.05512) arXiv preprint arXiv:2111.05512 (2021).
+1. Ritukesh Bharali, **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [A robust monolithic solver for phase-field fracture integrated with fracture energy based arc-length method and under-relaxation](https://arxiv.org/abs/2111.10649)
 
 ## Journal Papers
 
