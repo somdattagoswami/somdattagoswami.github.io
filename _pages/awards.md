@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+- 2022: ALCF Director’s Discretionary Allocation Grant for developing and scaling multi-scale fracture codes.
+- 2021: XSEDE startup grant for developing multi-scale codes. Grant Number: CIS210111- Surrogate modeling for multiscale fracture analysis using DeepONets.
+- 2021: INSPIRE Faculty Fellowship, Department of Science and Technology, India}.
 - 2021: Postdoctoral Research Associate Funding from the Division of Applied Mathematics, Brown University, USA. 
 - 2018: **Best Paper Award** for presenting Topology optimization under uncertainty at Structural Engineering Convention, 2018.
 - 2017: Deutscher Akademischer Austauschdienst (DAAD) Scholarship for pursuing Ph.D. in Germany.
