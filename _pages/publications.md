@@ -6,13 +6,14 @@ author_profile: true
 ---
 ## Submitted manuscript
 
-1. **Somdatta Goswami**, Minglang Yin, Yue Yu, and George Em Karniadakis. [A physics-informed variational DeepONet for predicting the crack
-path in brittle materials](https://arxiv.org/abs/2108.06905), arXiv preprint arXiv:2108.06905.
-1. Lu, Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, **Somdatta Goswami**, Zhongqiang Zhang, and George Em Karniadakis. [A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.](https://arxiv.org/abs/2111.05512) arXiv preprint arXiv:2111.05512 (2021).
-1. Ritukesh Bharali, **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [A robust monolithic solver for phase-field fracture integrated with fracture energy based arc-length method and under-relaxation](https://arxiv.org/abs/2111.10649)
+1. Kontolati, Katiana, **Somdatta Goswami**, Michael D. Shields, and George Em Karniadakis. [On the influence of over-parameterization in manifold based surrogates and deep neural operators](https://arxiv.org/abs/2203.05071).
+1. Ritukesh Bharali, **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [A robust monolithic solver for phase-field fracture integrated with fracture energy based arc-length method and under-relaxation](https://arxiv.org/abs/2111.10649).
 
 ## Journal Papers
 
+1. Lu, Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, **Somdatta Goswami**, Zhongqiang Zhang, and George Em Karniadakis. [A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.](https://www.sciencedirect.com/science/article/abs/pii/S0045782522001207?via%3Dihub) *Computer Methods in Applied Mechanics and Engineering* 393, p.114778.
+1. **Somdatta Goswami**, Minglang Yin, Yue Yu, and George Em Karniadakis. [A physics-informed variational DeepONet for predicting the crack
+path in brittle materials](https://www.sciencedirect.com/science/article/abs/pii/S004578252200010X?via%3Dihub), *Computer Methods in Applied Mechanics and Engineering* 391 (2022): 114587.
 1. Tanmoy Chatterjee, Souvik Chakraborty, **Somdatta Goswami**, Sondipon Adhikari, and Michael I Friswell. [Robust topological designs for extreme metamaterial micro-structures](https://www.nature.com/articles/s41598-021-94520-x), *Sci Rep* 11, 15221 (2021).
 1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [Adaptive fourth-order phase field analysis using deep energy minimization](https://doi.org/10.1016/j.tafmec.2020.102527), *Theoretical and Applied Fracture Mechanics* 107(2020):102527.
 1. **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [Adaptive fourth-order phase field analysis for brittle fracture](https://doi.org/10.1016/j.cma.2019.112808),  *Computer Methods in Applied Mechanics and Engineering* 361(2020):112808.
