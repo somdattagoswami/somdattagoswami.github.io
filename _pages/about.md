@@ -14,7 +14,4 @@ I am currently a Postdoctoral Research Associate in the departent od [Applied Ma
 
 - Here is a recent copy of my [CV](https://somdattagoswami.github.io/files/Resume.pdf).
 
-## Research Areas
-**Broad Interest:**  Scientific Machine Learning, Isogeometric analysis, Brittle fracture mechanics 
-
-**Recent works/focus on:** Phase-field based modeling (Fracture Mechanics, Aortic Dissection, Spinodal Decomposition). In particular, I have been actively involved in the design of learning machines that leverage the underlying physical laws and/or governing equations to extract patterns from high-dimensional data generated from experiments.
+- My research interests are on scientific machine learning and its applications on computational mechanics and biomechanics. In particular, I have been actively involved in the design of learning machines that leverage the underlying physical laws and/or governing equations to extract patterns from high-dimensional data generated from experiments.
