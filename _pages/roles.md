@@ -20,4 +20,5 @@ author_profile: true
   - [International Journal of Computational Methods](https://www.worldscientific.com/worldscinet/ijcm)
   - [Frontiers of Structural and Civil Engineering](https://www.springer.com/journal/11709)
   - [Energies](https://www.mdpi.com/journal/energies)
+  - [Sadhana](https://www.springer.com/journal/12046)
 
