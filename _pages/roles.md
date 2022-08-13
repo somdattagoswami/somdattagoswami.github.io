@@ -8,6 +8,7 @@ author_profile: true
 - Symposium Organizer:
 
   - International Symposium on Engineering under Uncertainty: Safety Assessment and Management (2012)
+  - Minisymposium on [Multiphysics and Multiscale modelling of non-local phase-field fractures](https://colloquia.gacm.de/program/minisymposia) at the 9th German Association for Computational Mechanics (GACM)
 
 - Journal Reviewer:
 
