@@ -21,4 +21,5 @@ author_profile: true
   - [Frontiers of Structural and Civil Engineering](https://www.springer.com/journal/11709)
   - [Energies](https://www.mdpi.com/journal/energies)
   - [Sadhana](https://www.springer.com/journal/12046)
+  - [Computers and Mathematics with Applications](https://www.sciencedirect.com/journal/computers-and-mathematics-with-applications)
 
