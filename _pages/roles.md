@@ -23,4 +23,6 @@ author_profile: true
   - [Energies](https://www.mdpi.com/journal/energies)
   - [Sadhana](https://www.springer.com/journal/12046)
   - [Computers and Mathematics with Applications](https://www.sciencedirect.com/journal/computers-and-mathematics-with-applications)
+  - [Scientific Reports](https://www.nature.com/srep/)
+  - [Engineering Fracture Mechanics](https://www.journals.elsevier.com/engineering-fracture-mechanics)
 
