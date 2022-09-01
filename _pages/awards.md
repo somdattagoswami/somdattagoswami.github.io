@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Invited talks
+ - 2022: Los Alamos National Laboratory on "Scientific machine learning: Bridging physical models and observational data"
  - 2021: NASA Langley Research Center on "Physics informed deep learning methods for brittle fracture"
  - 2021: George Washington University on "Physics informed deep learning methods: a solution to bridge data gap in computational mechanics"
  - 2020: Brown University on "Phase field modeling of fracture with isogeometric analysis and machine learning methods"
