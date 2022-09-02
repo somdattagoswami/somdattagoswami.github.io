@@ -8,11 +8,12 @@ author_profile: true
 
 1. Katiana Kontolati <sup>\*</sup>, **Somdatta Goswami**<sup>\*</sup>, Michael D. Shields, and George Em Karniadakis. [On the influence of over-parameterization in manifold based surrogates and deep neural operators](https://arxiv.org/abs/2203.05071).
 1. **Somdatta Goswami** <sup>\*</sup>, Katiana Kontolati <sup>\*</sup>, Michael D. Shields, and George Em Karniadakis. [Deep transfer learning for partial differential equations under conditional shift with DeepONet](https://arxiv.org/abs/2204.09810).
-1. Vivek Oommen, Khemraj Shukla, **Somdatta Goswami**, Remi Dingreville, and George Em Karniadakis. [Learning two-phase microstructure evolution using neural operators and autoencoder architectures](https://arxiv.org/abs/2204.07230).
 1. Ayan Chakraborty, Cosmin Anitescu, **Somdatta Goswami**, Zhuang Xiaoying, and Timon Rabczuk. [Variational energy based XPINNs for phase field analysis in brittle fracture](https://arxiv.org/abs/2207.02307)).
 1. **Somdatta Goswami**, Aniruddh Bora, Yue Yu, and George Em Karniadakis. [Physics-Informed Deep Neural Operator Networks](https://arxiv.org/abs/2207.05748).
 
 ## Journal Papers
+
+1. Vivek Oommen, Khemraj Shukla, **Somdatta Goswami**, Remi Dingreville, and George Em Karniadakis. [Learning two-phase microstructure evolution using neural operators and autoencoder architectures](https://www.nature.com/articles/s41524-022-00876-7).
 1. **Somdatta Goswami** <sup>\*</sup>, David S Li <sup>\*</sup>, Bruno V Rego, Marcos Latorre, Jay D Humphrey, and George Em Karniadakis. [Neural operator learning of heterogeneous mechanobiological insults contributing to aortic aneurysms](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0410)
 1. Ritukesh Bharali, **Somdatta Goswami**, Cosmin Anitescu, and Timon Rabczuk. [A robust monolithic solver for phase-field fracture integrated with fracture energy based arc-length method and under-relaxation](https://www.sciencedirect.com/science/article/pii/S0045782522001992) *Computer Methods in Applied Mechanics and Engineering* 394, p.114587.
 1. Lu, Lu, Xuhui Meng, Shengze Cai, Zhiping Mao, **Somdatta Goswami**, Zhongqiang Zhang, and George Em Karniadakis. [A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data.](https://www.sciencedirect.com/science/article/abs/pii/S0045782522001207?via%3Dihub) *Computer Methods in Applied Mechanics and Engineering* 393, p.114778.
