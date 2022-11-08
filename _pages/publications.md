@@ -10,6 +10,7 @@ author_profile: true
 1. **Somdatta Goswami** <sup>\*</sup>, Katiana Kontolati <sup>\*</sup>, Michael D. Shields, and George Em Karniadakis. [Deep transfer learning for partial differential equations under conditional shift with DeepONet](https://arxiv.org/abs/2204.09810).
 1. Ayan Chakraborty, Cosmin Anitescu, **Somdatta Goswami**, Zhuang Xiaoying, and Timon Rabczuk. [Variational energy based XPINNs for phase field analysis in brittle fracture](https://arxiv.org/abs/2207.02307)).
 1. **Somdatta Goswami**, Aniruddh Bora, Yue Yu, and George Em Karniadakis. [Physics-Informed Deep Neural Operator Networks](https://arxiv.org/abs/2207.05748).
+1. Adar Kahana, Enrui Zhang, **Somdatta Goswami**, George EM Karniadakis, Rishikesh Ranade, Jay Pathak. [On the Geometry Transferability of the Hybrid Iterative Numerical Solver for Differential Equations](https://arxiv.org/abs/2210.17392)
 
 ## Journal Papers
 
