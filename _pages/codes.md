@@ -48,3 +48,26 @@ Companion paper: [Adaptive phase field analysis with dual hierarchical meshes fo
 <p align="center">
   <img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/Media1.gif?raw=true" width="700" height="500">
 </p>
+
+## Monolithic solver for phase-field fracture integrated with fracture energy based arc-length method and under-relaxation
+![](../images/GitHub.png) [Source](https://github.com/rbharali/IGAFrac)
+
+- Robust monolithic solver with adaptive under-relaxation and arc-length method.
+- Snap-back behaviour is captured with a phase-field fracture energy-based dissipation constraint.
+- PHT-splines within IGA framework is utilized for adaptive mesh refinement
+
+Companion paper: [A robust monolithic solver for phase-field fracture integrated with fracture energy based arc-length method and under-relaxation](https://www.sciencedirect.com/science/article/pii/S0045782522001992)
+
+<p align="center">
+  <img src="https://github.com/somdattagoswami/somdattagoswami.github.io/blob/master/images/monolithic.gif?raw=true" width="700" height="500">
+</p>
+
+## Neural operator learning of heterogeneous mechanobiological insults contributing to aortic aneurysms
+![](../images/GitHub.png) [Source](https://github.com/somdattagoswami/Operator-Learning-for-aortic-aneurysms)
+
+- Framework to predict thoracic aortic aneurysm progression by integrating a constrained mixture model for arterial growth and remodeling with a deep neural-network surrogate model
+- Consists of 3D finite element simulations of thoracic aneurysm development arising from randomly distributed losses of elastic fiber integrity and dysfunctional mechanosensing.
+- Demonstrated improved performance of employing convolutional neural networks in our DeepONet construction.
+
+Companion paper: [Neural operator learning of heterogeneous mechanobiological insults contributing to aortic aneurysms](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0410)
+
