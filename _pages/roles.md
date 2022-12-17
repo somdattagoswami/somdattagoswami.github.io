@@ -4,11 +4,9 @@ title: "Academic Roles"
 permalink: /roles/
 author_profile: true
 ---
-
-- Symposium Organizer:
-
-  - International Symposium on Engineering under Uncertainty: Safety Assessment and Management (2012)
-  - Minisymposium on [Multiphysics and Multiscale modelling of non-local phase-field fractures](https://colloquia.gacm.de/program/minisymposia) at the 9th German Association for Computational Mechanics (GACM)
+- Mentoring female doctoral candidates (WISA+ 2022 - 2023) at Bauhaus University-Weimar.
+- 
+- Symposium Organizer: International Symposium on Engineering under Uncertainty: Safety Assessment and Management (2012), GACM Colloquium on Computational Mechanics (2022), SIAM Conference on Computational Science and Engineering (2023), U.S. National Congress Conference on Computational Mechanics (2023).
 
 - Journal Reviewer:
 
