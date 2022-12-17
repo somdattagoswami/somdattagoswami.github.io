@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Roles"
+title: "Roles"
 permalink: /roles/
 author_profile: true
 ---
