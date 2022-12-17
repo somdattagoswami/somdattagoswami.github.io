@@ -71,3 +71,26 @@ Companion paper: [A robust monolithic solver for phase-field fracture integrated
 
 Companion paper: [Neural operator learning of heterogeneous mechanobiological insults contributing to aortic aneurysms](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0410)
 
+## A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data
+![](../images/GitHub.png) [Source](https://github.com/lu-group/deeponet-fno)
+
+- Practical extensions of DeepONet and FNO that make them more accurate and robust.
+
+Companion paper: [A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data](https://www.sciencedirect.com/science/article/pii/S0045782522001207?via%3Dihub)
+
+## Learning two-phase microstructure evolution using neural operators and autoencoder architectures
+![](../images/GitHub.png) [Source](https://github.com/vivek-brown/NPJCOMPUMATS-03747)
+
+- Learning the dynamics of evolution of a two phase mixture suring spinodal decomposition.
+- Integrating the developed autoencoder integrated operator newtork with high fidelity solver.
+
+Companion paper: [Learning two-phase microstructure evolution using neural operators and autoencoder architectures](https://www.nature.com/articles/s41524-022-00876-7)
+
+## Deep transfer operator learning for partial differential equations under conditional shift
+![](../images/GitHub.png) [Source](https://github.com/katiana22/TL-DeepONet)
+
+- Framework for transfer learning problems under conditional shift with deep neural operators. 
+- The proposed framework can be employed for fast and efficient task-specific PDE learning and uncertainty quantification. 
+- Leverage principles of the RKHS and the conditional embedding operator theory to construct a new hybrid loss function and fine-tune the target model.
+
+Companion paper: [Deep transfer operator learning for partial differential equations under conditional shift](https://www.nature.com/articles/s42256-022-00569-2)
