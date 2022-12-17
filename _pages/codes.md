@@ -91,6 +91,6 @@ Companion paper: [Learning two-phase microstructure evolution using neural opera
 
 - Framework for transfer learning problems under conditional shift with deep neural operators. 
 - The proposed framework can be employed for fast and efficient task-specific PDE learning and uncertainty quantification. 
-- Leverage principles of the RKHS and the conditional embedding operator theory to construct a new hybrid loss function and fine-tune the target model.
+- Leveraging principles of the RKHS and the conditional embedding operator theory to construct a new hybrid loss function and fine-tune the target model.
 
 Companion paper: [Deep transfer operator learning for partial differential equations under conditional shift](https://www.nature.com/articles/s42256-022-00569-2)
