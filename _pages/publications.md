@@ -10,7 +10,7 @@ author_profile: true
 Prediction of Multiple Output States in Diesel Engines using a Deep Neural Operator Framework](https://arxiv.org/abs/2304.00567)
 1. **Somdatta Goswami**, Ameya D. Jagtap, Hessam Babaee, Bryan T. Susi, and George Em Karniadakis. [Learning stiff chemical kinetics using extended deep neural operators](https://arxiv.org/abs/2302.12645).
 1. Katarzyna Michałowska, **Somdatta Goswami**, George Em Karniadakis, and Signe Riemer-Sørensen. [Neural Operator Learning for Long-Time Integration in Dynamical Systems with Recurrent Neural Networks](https://arxiv.org/abs/2303.02243).
-1. Qianying Cao, **Somdatta Goswami**, and George Em Karniadakis. [LNO: Laplace Neural Operator for Solving Differential Equations (https://arxiv.org/abs/2303.10528).
+1. Qianying Cao, **Somdatta Goswami**, and George Em Karniadakis. [LNO: Laplace Neural Operator for Solving Differential Equations] (https://arxiv.org/abs/2303.10528).
 1. Ayan Chakraborty, Cosmin Anitescu, **Somdatta Goswami**, Zhuang Xiaoying, and Timon Rabczuk. [Variational energy based XPINNs for phase field analysis in brittle fracture](https://arxiv.org/abs/2207.02307).
 1. **Somdatta Goswami**, Aniruddh Bora, Yue Yu, and George Em Karniadakis. [Physics-Informed Deep Neural Operator Networks](https://arxiv.org/abs/2207.05748).
 1. Qianying Cao, **Somdatta Goswami**, George Em Karniadakis, and Souvik Chakraborty. [Deep neural operators can predict the real-time response of floating offshore structures under irregular waves](https://arxiv.org/abs/2302.06667). 
