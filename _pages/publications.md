@@ -6,12 +6,18 @@ author_profile: true
 ---
 ## Submitted manuscript
 
-1. Katiana Kontolati <sup>\*</sup>, **Somdatta Goswami**<sup>\*</sup>, Michael D. Shields, and George Em Karniadakis. [On the influence of over-parameterization in manifold based surrogates and deep neural operators](https://arxiv.org/abs/2203.05071).
-1. Ayan Chakraborty, Cosmin Anitescu, **Somdatta Goswami**, Zhuang Xiaoying, and Timon Rabczuk. [Variational energy based XPINNs for phase field analysis in brittle fracture](https://arxiv.org/abs/2207.02307)).
+1. Varun Kumar, **Somdatta Goswami**, Daniel J. Smith, and George Em Karniadakis. [Real-Time
+Prediction of Multiple Output States in Diesel Engines using a Deep Neural Operator Framework](https://arxiv.org/abs/2304.00567)
+1. **Somdatta Goswami**, Ameya D. Jagtap, Hessam Babaee, Bryan T. Susi, and George Em Karniadakis. [Learning stiff chemical kinetics using extended deep neural operators](https://arxiv.org/abs/2302.12645).
+1. Katarzyna Michałowska, **Somdatta Goswami**, George Em Karniadakis, and Signe Riemer-Sørensen. [Neural Operator Learning for Long-Time Integration in Dynamical Systems with Recurrent Neural Networks](https://arxiv.org/abs/2303.02243).
+1. Qianying Cao, **Somdatta Goswami**, and George Em Karniadakis. [LNO: Laplace Neural Operator for Solving Differential Equations (https://arxiv.org/abs/2303.10528).
+1. Ayan Chakraborty, Cosmin Anitescu, **Somdatta Goswami**, Zhuang Xiaoying, and Timon Rabczuk. [Variational energy based XPINNs for phase field analysis in brittle fracture](https://arxiv.org/abs/2207.02307).
 1. **Somdatta Goswami**, Aniruddh Bora, Yue Yu, and George Em Karniadakis. [Physics-Informed Deep Neural Operator Networks](https://arxiv.org/abs/2207.05748).
-1. Adar Kahana, Enrui Zhang, **Somdatta Goswami**, George Em Karniadakis, Rishikesh Ranade, Jay Pathak. [On the Geometry Transferability of the Hybrid Iterative Numerical Solver for Differential Equations](https://arxiv.org/abs/2210.17392)
+1. Qianying Cao, **Somdatta Goswami**, George Em Karniadakis, and Souvik Chakraborty. [Deep neural operators can predict the real-time response of floating offshore structures under irregular waves](https://arxiv.org/abs/2302.06667). 
 
 ## Journal Papers
+1. Adar Kahana, Enrui Zhang, **Somdatta Goswami**, George Em Karniadakis, Rishikesh Ranade, Jay Pathak. [On the Geometry Transferability of the Hybrid Iterative Numerical Solver for Differential Equations](https://link.springer.com/article/10.1007/s00466-023-02271-5) *Computational Mechanics* (2023), p.1-14.
+1. Katiana Kontolati <sup>\*</sup>, **Somdatta Goswami**<sup>\*</sup>, Michael D. Shields, and George Em Karniadakis. [On the influence of over-parameterization in manifold based surrogates and deep neural operators](https://doi.org/10.1016/j.jcp.2023.112008) *Journal of Computational Physics* 479(2023), p.112008.
 1. **Somdatta Goswami** <sup>\*</sup>, Katiana Kontolati <sup>\*</sup>, Michael D. Shields, and George Em Karniadakis. [Deep transfer learning for partial differential equations under conditional shift with DeepONet](https://www.nature.com/articles/s42256-022-00569-2) *Nature Machine Intelligence* 4(2022), p.1-10.
 1. Vivek Oommen, Khemraj Shukla, **Somdatta Goswami**, Remi Dingreville, and George Em Karniadakis. [Learning two-phase microstructure evolution using neural operators and autoencoder architectures](https://www.nature.com/articles/s41524-022-00876-7) *npj Computational Materials*  8(2022), p.190.
 1. **Somdatta Goswami** <sup>\*</sup>, David S Li <sup>\*</sup>, Bruno V Rego, Marcos Latorre, Jay D Humphrey, and George Em Karniadakis. [Neural operator learning of heterogeneous mechanobiological insults contributing to aortic aneurysms](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0410) *Journal of the Royal Society Interface* 19(2022)
