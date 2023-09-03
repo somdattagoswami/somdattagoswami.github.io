@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Invited talks
+ - 2023: Argonne Training Program on Extreme-Scale Computing (ATPESC) on "Transfer and Multi-Task Learning in Physics-Based Applications with Deep Neural Operators".
+ - 2023: SAMVAAD, Bosch Global Software Technologies Private Limited on "Employing machine learning approaches to solve PDEs in Mechanics within big-data regime".
+ - 2023: One World Seminar Series on the Mathematics of Machine Learning on "Transfer Learning in Physics-Based Applications with Deep Neural Operators".
+ - 2023: USACM Technical Thrust Area, Seminar on UQ and Probabilistic Modeling on "Integration of Numerical Modeling and Machine Learning in Mechanics".
  - 2022: Penn State University-Purdue University-University of Maryland, Joint Seminar on Mathematical Data Science on "Transfer learning in Deep Neural Operators".
  - 2022: Vanderbilt University, Emerging Scholars Seminar on "Scientific machine learning: Research at the Intersection of Mathematics, Computing, and Data".
  - 2022: The University of Texas at El Paso, Advanced Modeling and Simulations Seminar Series on "At the crossroads of Numerical Modeling & Machine Learning for Mechanics".
