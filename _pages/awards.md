@@ -13,7 +13,21 @@ author_profile: true
  - 2021: NASA Langley Research Center on "Physics informed deep learning methods for brittle fracture".
  - 2021: George Washington University on "Physics informed deep learning methods: a solution to bridge data gap in computational mechanics".
  - 2020: Brown University on "Phase field modeling of fracture with isogeometric analysis and machine learning methods".
- 
+
+## Grants
+- 2023-2027: U.S. Department of Energy Office of Science,
+Awarded as a co-PI. Amount = $4.8M.
+Title: Physics and Uncertainty Informed Latent Operator Learning.
+- 2023-2024: Small Business Innovation Research Fund from Defense Threat Reduction Agency, USA,
+Awarded as a co-PI. Amount = $1.1M.
+Title: Numerics-Informed Neural Networks (Phase II).
+- 2023-2024: Seed grant under Data Science Initiative, Brown University,
+Awarded as a PI. Amount = $18,850.
+Title: Advancing Nucleic Acid Electrophoretic Mobility Models through Scientific Machine Learning: Implications for Quality Control in RNA-Based Therapies
+- 2023:  Brown University funding for Summer Projects for Research, Internships, and Teaching,
+Awarded as a PI. Amount =$2,500.
+Title: Generalizing AI for Partial Differential Equations: A Path towards AG
+
 ## Computational grants
 
 - 2022: U.S. Department of Energy for ASCR Leadership Computing Challenge (ALCC) award. "A Multiscale Surrogate Model for Fracture Evolution using DeepONet".
