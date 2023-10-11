@@ -12,9 +12,12 @@ Prediction of Multiple Output States in Diesel Engines using a Deep Neural Opera
 1. Katarzyna Michałowska, **Somdatta Goswami**, George Em Karniadakis, and Signe Riemer-Sørensen. [Neural Operator Learning for Long-Time Integration in Dynamical Systems with Recurrent Neural Networks](https://arxiv.org/abs/2303.02243).
 1. Qianying Cao, **Somdatta Goswami**, and George Em Karniadakis. [LNO: Laplace Neural Operator for Solving Differential Equations](https://arxiv.org/abs/2303.10528).
 1. Ayan Chakraborty, Cosmin Anitescu, **Somdatta Goswami**, Zhuang Xiaoying, and Timon Rabczuk. [Variational energy based XPINNs for phase field analysis in brittle fracture](https://arxiv.org/abs/2207.02307).
-1. **Somdatta Goswami**, Aniruddh Bora, Yue Yu, and George Em Karniadakis. [Physics-Informed Deep Neural Operator Networks](https://arxiv.org/abs/2207.05748).
 1. Qianying Cao, **Somdatta Goswami**, George Em Karniadakis, and Souvik Chakraborty. [Deep neural operators can predict the real-time response of floating offshore structures under irregular waves](https://arxiv.org/abs/2302.06667).
 1. Nikolas Borrel-Jensen, **Somdatta Goswami**, Allan P. Engsig-Karup, George Em Karniadakis, and Cheol-Ho Jeong. [Sound propagation in realistic interactive 3D scenes with parameterized sources using deep neural operators](https://arxiv.org/pdf/2308.05141).
+1. Katarzyna Michałowska, **Somdatta Goswami**, George Em Karniadakis, and Signe Riemer-Sørensen. [DON-LSTM: Multi-Resolution Learning with DeepONets and Long Short-Term Memory Neural Networks](https://arxiv.org/abs/2310.02491).
+
+## Book Chapter
+1. **Somdatta Goswami**, Annirudha Bora, Yue Yu, George Em Karniadakis. [Physics-Informed Deep Neural Operator Networks](https://link.springer.com/chapter/10.1007/978-3-031-36644-4_6). In: Rabczuk, T., Bathe, KJ. (eds) *Machine Learning in Modeling and Simulation. Computational Methods in Engineering & the Sciences*. Springer, Cham (2023).
 
 ## Journal Papers
 1. Adar Kahana, Enrui Zhang, **Somdatta Goswami**, George Em Karniadakis, Rishikesh Ranade, Jay Pathak. [On the Geometry Transferability of the Hybrid Iterative Numerical Solver for Differential Equations](https://link.springer.com/article/10.1007/s00466-023-02271-5) *Computational Mechanics* (2023), p.1-14.
