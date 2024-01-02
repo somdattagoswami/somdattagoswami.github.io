@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am an Assistant Professor in the Civil and Systems Engineering at Johns Hopkins University. My research is centered around scientific machine learning with a main focus on developing efficient machine-learning approaches for solving high-dimensional physics-based systems in the domains of computational mechanics and biomechanics. 
+Currently, I am an Assistant Professor in the Civil and Systems Engineering Department at Johns Hopkins University. My research is centered around scientific machine learning with a main focus on developing efficient machine-learning approaches for solving high-dimensional physics-based systems in the domains of computational mechanics and biomechanics. 
 
 - Previously, I have been a Research Assistant Professor (2022-2023) and Postdoctoral Research Associate (2021-2022) in the Division of Applied Mathematics, at Brown University, where I was advised by Prof. George Karniadakis. 
 
