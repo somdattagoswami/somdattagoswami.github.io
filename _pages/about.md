@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am an Assistant Professor (Research) at the Division of Applied Mathematics, Brown University, USA. My research is centered around scientific machine learning with a main focus on developing efficient machine-learning approaches for solving high-dimensional physics-based systems in the domains of computational mechanics and biomechanics. My research is generously supported by the U.S. National Institutes of Health (NIH).
+Currently, I am an Assistant Professor in the Civil and Systems Engineering at Johns Hopkins University. My research is centered around scientific machine learning with a main focus on developing efficient machine-learning approaches for solving high-dimensional physics-based systems in the domains of computational mechanics and biomechanics. 
 
-- I have been a Postdoctoral Research Associate in the Division of Applied Mathematics, at Brown University, where I was advised by Prof. George Karniadakis. 
+- Previously, I have been a Research Assistant Professor (2022-2023) and Postdoctoral Research Associate (2021-2022) in the Division of Applied Mathematics, at Brown University, where I was advised by Prof. George Karniadakis. 
 
 - I completed my Ph.D. in 2020 at Bauhaus University, Germany under the supervision of Prof. Timon Rabczuk. My Ph.D. thesis is titled "Phase field based modeling of fracture with isogeometric analysis and machine learning methods".
 
